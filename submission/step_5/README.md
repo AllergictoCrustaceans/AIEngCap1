@@ -38,5 +38,11 @@ Unforunately, there were no successful validations, luggage validation was defau
 
 #### Usage + Performance from Service Consumption Report
 
+I used the Jupyter lab provided by Udacity, and when checking the cost management tab, it's disabled. 
+
+![](cost_blanked_out.png)
+
+![](service_consumption_report.png)
 
 #### Reflection 
+[Capstone Reflection](./capstone1_reflection.pdf)
