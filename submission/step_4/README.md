@@ -10,15 +10,7 @@
 ![](object_detection_training.png)
 
 #### Perform Validation Process of Model on Web Portal
-![](pred_test_img_1.png)
-
-![](pred_test_img_2.png)
-
-![](pred_test_img_3.png)
-
-![](pred_test_img_4.png)
-
-![](pred_test_img_5.png)
+![](revision_validation_section.png)
 
 #### Precision and Precall of Model
 ![](custom_vis_precision_recall.png)
@@ -30,6 +22,16 @@
 ![](custom_vis_precision_on_endpoint.png)
 
 #### Prediction Values of 5 Test Images
+
+![](pred_test_img_1.png)
+
+![](pred_test_img_2.png)
+
+![](pred_test_img_3.png)
+
+![](pred_test_img_4.png)
+
+![](pred_test_img_5.png)
 
 ![](test_pred_img_1_notebook.png)
 
