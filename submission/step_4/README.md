@@ -37,7 +37,7 @@
 #
 
 ## Use Endpoint to Predict
-![](custom_vis_precision_on_endpoint.png)
+![](custom_vis_prediction_on_endpoint.png)
 #
 
 ## Prediction Values of 5 Test Images
